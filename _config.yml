@@ -37,7 +37,8 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Informazioni preliminari
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+    description                           : Progetto per il corso di "Fondamenti di Human Computer Interaction" del Politecnico di Milano.
+    Progetto sviluppato dal gruppo BitEvent
     fontawesome_icon_name                 : cog
     
   - title                                 : iPhone Device Preview
