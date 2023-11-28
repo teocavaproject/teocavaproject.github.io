@@ -37,8 +37,7 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Informazioni preliminari
-    description                           : Progetto per il corso di "Fondamenti di Human Computer Interaction" del Politecnico di Milano.
-    Progetto sviluppato dal gruppo BitEvent
+    description                           : Progetto per il corso di "Fondamenti di Human Computer Interaction" del Politecnico di Milano. Progetto sviluppato dal gruppo BitEvent
     fontawesome_icon_name                 : cog
     
   - title                                 : iPhone Device Preview
