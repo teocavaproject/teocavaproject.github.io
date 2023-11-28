@@ -48,9 +48,9 @@ features                                  :
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
     fontawesome_icon_name                 : folder-open
 
-  - title                                 : Task
-    description                           : Semplice) Ricerca degli eventi. Moderata) Espressione di giudizio. Complessa) Pubblicazione eventi.
-    fontawesome_icon_name                 : check-square-o
+  - title                                 : Tasks
+    description                           : Ricerca degli eventi. Espressione di giudizio. Pubblicazione eventi.
+    fontawesome_icon_name                 : bolt
 
   - title                                 : Brainstorming
     description                           : Abbiamo raccolto le esigenze delle persone del Politecnico e le abbiamo categorizzate in base all'importanza.
