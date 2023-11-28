@@ -44,33 +44,37 @@ features                                  :
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
     fontawesome_icon_name                 : briefcase
 
-  - title                                 : Boh
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : folder-open
+  - title                                 : Brainstorming
+    description                           : Abbiamo raccolto le esigenze delle persone del Politecnico e le abbiamo categorizzate in base all'importanza.
+    fontawesome_icon_name                 : cloud
 
   - title                                 : Tasks
     description                           : Ricerca degli eventi. Espressione di giudizio. Pubblicazione eventi.
     fontawesome_icon_name                 : bolt
-
-  - title                                 : Brainstorming
-    description                           : Abbiamo raccolto le esigenze delle persone del Politecnico e le abbiamo categorizzate in base all'importanza.
-    fontawesome_icon_name                 : cloud
   
   - title                                 : Feature List
     description                           : Aggiungere le feature una ad una
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Feedback attivo
+    description                           : Viene mostrato in modo intuitivo la sezione in cui mi trovo o l'operazione che sto compiendo.
+    fontawesome_icon_name                 : eye-slash
+
+  - title                                 : UI intuitiva
+    description                           : Mostriamo un display facile e intuitivo anche per chi non ha confidenza con applicazioni mobile. Il nostro design ispirato a "Spotify" permette di apprendere le funzionalità offerte in maniera efficace e rapida.
+    fontawesome_icon_name                 : fighter-jet
+
+  - title                                 : Ricerca
+    description                           : Utilizziamo una barra di ricerca con suggerimenti offerti da un algoritmo che permette di trovare velocemente eventi di tuo gradimento o cercati precedentemente. Inoltre è possibile utilizzare dei filtri per rendere la ricerca ancora più precisa.
+    fontawesome_icon_name                 : filter
+
+  - title                                 : Area utente
+    description                           : Abbiamo una sezione dedicata all'utente completa e facile anche per chi è più inesperto. Per gli organizzatori sono previste funzioni aggiuntive in merito alla creazione e gestione di eventi.
+    fontawesome_icon_name                 : cloud-upload
 
   - title                                 : Social Links
     description                           : Aggiungere social
     fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
