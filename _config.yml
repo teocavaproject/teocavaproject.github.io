@@ -40,24 +40,24 @@ features                                  :
     description                           : Progetto per il corso di "Fondamenti di Human Computer Interaction" del Politecnico di Milano.                                   Progetto sviluppato dal gruppo BitEvent
     fontawesome_icon_name                 : cog
     
-  - title                                 : iPhone Device Preview
+  - title                                 : Team
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
     fontawesome_icon_name                 : briefcase
 
-  - title                                 : Video Support
+  - title                                 : Boh
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
     fontawesome_icon_name                 : folder-open
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Task
+    description                           : Semplice) Ricerca degli eventi. Moderata) Espressione di giudizio. Complessa) Pubblicazione eventi.
+    fontawesome_icon_name                 : check-square-o
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Brainstorming
+    description                           : Abbiamo raccolto le esigenze delle persone del Politecnico e le abbiamo categorizzate in base all'importanza.
+    fontawesome_icon_name                 : cloud
   
   - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    description                           : Aggiungere le feature una ad una
     fontawesome_icon_name                 : star
 
   - title                                 : Smart App Banner
@@ -65,7 +65,7 @@ features                                  :
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    description                           : Aggiungere social
     fontawesome_icon_name                 : link
 
   - title                                 : FontAwesome Support
