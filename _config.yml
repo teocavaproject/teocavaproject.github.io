@@ -48,13 +48,13 @@ features                                  :
     description                           : Abbiamo raccolto le esigenze delle persone del Politecnico e le abbiamo categorizzate in base all'importanza.
     fontawesome_icon_name                 : cloud
 
-  - title                                 : Tasks
-    description                           : Ricerca degli eventi. Espressione di giudizio. Pubblicazione eventi.
-    fontawesome_icon_name                 : bolt
+  - title                                 : # Tasks
+    description                           : # Ricerca degli eventi. Espressione di giudizio. Pubblicazione eventi.
+    fontawesome_icon_name                 : # bolt
   
-  - title                                 : Feature List
-    description                           : Aggiungere le feature una ad una
-    fontawesome_icon_name                 : star
+  - title                                 : # Feature List
+    description                           : # Aggiungere le feature una ad una
+    fontawesome_icon_name                 : # star
 
   - title                                 : Feedback attivo
     description                           : Viene mostrato in modo intuitivo la sezione in cui mi trovo o l'operazione che sto compiendo.
@@ -70,7 +70,7 @@ features                                  :
 
   - title                                 : Area utente
     description                           : Abbiamo una sezione dedicata all'utente completa e facile anche per chi è più inesperto. Per gli organizzatori sono previste funzioni aggiuntive in merito alla creazione e gestione di eventi.
-    fontawesome_icon_name                 : cloud-upload
+    fontawesome_icon_name                 : desktop
 
   - title                                 : Social Links
     description                           : Aggiungere social
